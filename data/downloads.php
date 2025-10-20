@@ -1,0 +1,6 @@
+<?php
+$downloads = [
+    [ 'id' => 1, 'title' => 'Free E-book: Introduction to Web Development', 'description' => 'A comprehensive guide for beginners to start their journey in web development.', 'file' => 'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', 'image' => 'https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80' ],
+    [ 'id' => 2, 'title' => 'Free PDF: 10 Tips for Better UI/UX Design', 'description' => 'Improve your design skills with these 10 essential tips from industry experts.', 'file' => 'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', 'image' => 'https://images.unsplash.com/photo-1522199755839-a2bacb67c546?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80' ],
+    [ 'id' => 3, 'title' => 'Free Template: Project Plan', 'description' => 'A ready-to-use project plan template to help you manage your projects effectively.', 'file' => 'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', 'image' => 'https://images.unsplash.com/photo-1542744095-291d1f67b221?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80' ]
+];
