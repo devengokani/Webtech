@@ -5,6 +5,8 @@
                 <a href="#">Facebook</a>
                 <a href="#">Google</a>
                 <a href="#">Instagram</a>
+                <a href="#">Github</a>
+                
             </div>
         </div>
     </footer>
