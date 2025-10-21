@@ -27,6 +27,7 @@ include '../includes/db.php';
                 <li><a href="properties.php">Properties</a></li>
                 <li><a href="news.php">News</a></li>
                 <li><a href="downloads.php">Downloads</a></li>
+                <li><a href="posts.php">Posts</a></li>
                 <li><a href="applications.php">Applications</a></li>
                 <li><a href="orders.php">Orders</a></li>
                 <li><a href="settings.php">Settings</a></li>
